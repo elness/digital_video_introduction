@@ -63,7 +63,7 @@ All the **hands-on should be performed from the folder you cloned** this reposit
     + [H264 bitstream](#h264-bitstream)
     + [Hands-on: Inspect the H264 bitstream](#hands-on-inspect-the-h264-bitstream)
   * [Review](#review)
-  * [How does H265 can achieve better compression ratio than H264?](#how-does-h265-can-achieve-better-compression-ratio-than-h264)
+  * [How does H265 achieve better compression ratio than H264?](#how-does-h265-achieve-better-compression-ratio-than-h264)
 - [Online streaming](#online-streaming)
   * [General architecture](#general-architecture)
   * [Progressive download and adaptive streaming](#progressive-download-and-adaptive-streaming)
@@ -691,7 +691,7 @@ Previously we had calculated that we needed [139GB of storage to keep a video fi
 
 > We choose to use **0.031 bit per pixel** based on the example video provided here.
 
-## How does H265 can achieve better compression ratio than H264?
+## How does H265 achieve better compression ratio than H264?
 
 Now that we know more about how codecs work, then it is easy to understand how new codecs are able to deliver higher resolutions with less bits.
 
